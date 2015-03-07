@@ -4,6 +4,7 @@ Brought to you by the BitSyko development team.
 
 Instructions
 ****************
+First you must change the package name, this needs to be different for every wrapper you publish/post.
 
 Your theme.zip file must be named 
 with no spaces/slashes or characters and all lowercase letters or numbers with the .zip extension removed.
