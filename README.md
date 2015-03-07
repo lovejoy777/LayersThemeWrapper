@@ -19,3 +19,5 @@ Goto drawable and swap the placeholder "ic_themeimage.png" for your own.
 
 Build and Enjoy
 
+Please dont mod the wrapper as we dont want any errors caused by you reflecting on Layers and the BitSyko Team.
+
